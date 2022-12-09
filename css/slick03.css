@@ -1,0 +1,51 @@
+.potpolio {
+    padding: 100px 0;
+}
+
+.potpolio .inner {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.port_slide {
+    margin: 0 -15px;
+}
+
+.potpolio .inner figure {
+    padding: 0 15px;
+}
+
+
+
+
+
+
+.poduct {
+    padding: 100px 0;
+    background: #f9f9f9;
+}
+
+.poduct .inner {
+    display: flex;
+    gap: 30px;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.poduct .inner .left {
+    flex: 2;
+    overflow: hidden;
+}
+
+.poduct .inner .left figure {
+    padding: 0 15px;
+}
+
+.poduct .inner .right {
+    flex: 1;
+}
+
+.product_slide {
+    margin: 0 -15px;
+}
